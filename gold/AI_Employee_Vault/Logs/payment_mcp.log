@@ -1,0 +1,9 @@
+2026-02-26 00:10:24,285 - PaymentMCP - INFO - Payee verification: Client A is known
+2026-02-26 00:10:24,285 - PaymentMCP - INFO - Created payment approval request PAYMENT_5CF6F324_1772046624
+2026-02-26 00:10:24,285 - PaymentMCP - INFO - Payee verification: Client A is known
+2026-02-26 00:10:24,290 - PaymentMCP - INFO - Payment status check for FAKE1234: unknown
+2026-02-26 00:11:46,546 - PaymentMCP - INFO - Payee verification: Test Client is new
+2026-02-26 00:11:46,546 - PaymentMCP - INFO - Payee verification: Test Client is new
+2026-02-26 00:11:46,546 - PaymentMCP - INFO - Created payment approval request PAYMENT_989E9E67_1772046706
+2026-03-01 21:41:28,995 - PaymentMCP - INFO - Payee verification: Test Vendor is new
+2026-03-01 21:41:29,011 - PaymentMCP - INFO - Created payment approval request PAYMENT_BCB59FC5_1772383288

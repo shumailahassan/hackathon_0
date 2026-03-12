@@ -1,0 +1,180 @@
+2026-02-28 02:07:07,533 - EnhancedTestRunner - INFO - Starting Enhanced AI Employee Watcher Test Runner
+2026-02-28 02:07:07,533 - EnhancedTestRunner - INFO - This test runner evaluates the complete AI Employee Vault system
+2026-02-28 02:07:07,533 - EnhancedTestRunner - INFO - 
+2026-02-28 02:07:07,533 - EnhancedTestRunner - INFO - Running Playwright installation check...
+2026-02-28 02:07:07,533 - PlaywrightCheck - INFO - ============================================================
+2026-02-28 02:07:07,533 - PlaywrightCheck - INFO - CHECKING PLAYWRIGHT INSTALLATION
+2026-02-28 02:07:07,533 - PlaywrightCheck - INFO - ============================================================
+2026-02-28 02:07:07,707 - PlaywrightCheck - INFO - Playwright version: 1.40.0
+2026-02-28 02:07:08,009 - PlaywrightCheck - INFO - Playwright sync API import: PASS
+2026-02-28 02:07:11,977 - PlaywrightCheck - INFO - Chromium browser launch: PASS
+2026-02-28 02:07:11,977 - EnhancedTestRunner - INFO - 
+Running session persistence check...
+2026-02-28 02:07:11,982 - SessionCheck - INFO - ============================================================
+2026-02-28 02:07:11,982 - SessionCheck - INFO - CHECKING SESSION PERSISTENCE
+2026-02-28 02:07:11,982 - SessionCheck - INFO - ============================================================
+2026-02-28 02:07:11,982 - SessionCheck - INFO - LinkedIn session directory exists: linkedin_session
+2026-02-28 02:07:12,012 - SessionCheck - INFO -   Contents: 342 files/directories
+2026-02-28 02:07:12,042 - SessionCheck - INFO -   Data files: 244
+2026-02-28 02:07:12,042 - SessionCheck - INFO - WhatsApp session directory exists: whatsapp_session
+2026-02-28 02:07:12,072 - SessionCheck - INFO -   Contents: 377 files/directories
+2026-02-28 02:07:12,099 - SessionCheck - INFO -   Data files: 266
+2026-02-28 02:07:12,102 - SessionCheck - INFO - Session directory access: PASS
+2026-02-28 02:07:12,102 - EnhancedTestRunner - INFO - 
+Running MCP connectivity check...
+2026-02-28 02:07:12,102 - MCPCheck - INFO - ============================================================
+2026-02-28 02:07:12,102 - MCPCheck - INFO - CHECKING MCP CONNECTIVITY
+2026-02-28 02:07:12,102 - MCPCheck - INFO - ============================================================
+2026-02-28 02:07:12,102 - MCPCheck - INFO - MCP file exists: mcp_browser_server.py
+2026-02-28 02:07:12,102 - MCPCheck - INFO - MCP file exists: mcp_payment_server.py
+2026-02-28 02:07:12,102 - MCPCheck - INFO - MCP file exists: mcp_email_server.py
+2026-02-28 02:07:12,102 - MCPCheck - INFO - MCP file exists: system_watchdog.py
+2026-02-28 02:07:12,102 - MCPCheck - INFO - Skills directory exists: skills
+2026-02-28 02:07:12,102 - MCPCheck - INFO -   Found 1 skill files
+2026-02-28 02:07:12,102 - MCPCheck - INFO - MCP connectivity check: PASS
+2026-02-28 02:07:12,102 - EnhancedTestRunner - INFO - 
+Running additional validations...
+2026-02-28 02:07:12,102 - AdditionalCheck - INFO - ============================================================
+2026-02-28 02:07:12,102 - AdditionalCheck - INFO - RUNNING ADDITIONAL VALIDATIONS
+2026-02-28 02:07:12,102 - AdditionalCheck - INFO - ============================================================
+2026-02-28 02:07:12,102 - AdditionalCheck - INFO - Playwright in requirements.txt: PASS
+2026-02-28 02:07:12,102 - AdditionalCheck - INFO - Base watcher exists: PASS
+2026-02-28 02:07:12,102 - EnhancedTestRunner - INFO - 
+Running LinkedIn watcher test...
+2026-02-28 02:07:12,102 - LinkedInTest - INFO - ============================================================
+2026-02-28 02:07:12,102 - LinkedInTest - INFO - TESTING LINKEDIN WATCHER
+2026-02-28 02:07:12,102 - LinkedInTest - INFO - ============================================================
+2026-02-28 02:07:12,102 - LinkedInTest - INFO - Starting LinkedIn watcher in test mode...
+2026-02-28 02:09:36,364 - LinkedInTest - INFO - LinkedIn watcher exit code: 0
+2026-02-28 02:09:36,369 - LinkedInTest - ERROR - LinkedIn STDERR:
+2026-02-28 02:09:36,371 - LinkedInTest - ERROR -   Error checking feed: net::ERR_NETWORK_IO_SUSPENDED at https://www.linkedin.com/feed/
+2026-02-28 02:09:36,372 - LinkedInTest - INFO - LinkedIn test result: PASS
+2026-02-28 02:09:36,372 - EnhancedTestRunner - INFO - 
+Running WhatsApp watcher test...
+2026-02-28 02:09:36,373 - WhatsAppTest - INFO - ============================================================
+2026-02-28 02:09:36,373 - WhatsAppTest - INFO - TESTING WHATSAPP WATCHER
+2026-02-28 02:09:36,373 - WhatsAppTest - INFO - ============================================================
+2026-02-28 02:09:36,374 - WhatsAppTest - INFO - Starting WhatsApp watcher in test mode...
+2026-02-28 02:12:35,374 - WhatsAppTest - INFO - WhatsApp watcher exit code: 0
+2026-02-28 02:12:35,374 - WhatsAppTest - INFO - WhatsApp test result: PASS
+2026-02-28 02:12:35,374 - ValidationReport - INFO - ================================================================================
+2026-02-28 02:12:35,374 - ValidationReport - INFO - COMPREHENSIVE VALIDATION REPORT
+2026-02-28 02:12:35,374 - ValidationReport - INFO - ================================================================================
+2026-02-28 02:12:35,389 - ValidationReport - INFO - Report generated at: 2026-02-28 02:12:35
+2026-02-28 02:12:35,389 - ValidationReport - INFO - 
+2026-02-28 02:12:35,389 - ValidationReport - INFO - Component Status:
+2026-02-28 02:12:35,389 - ValidationReport - INFO -   LinkedIn Auth:        PASS
+2026-02-28 02:12:35,389 - ValidationReport - INFO -   WhatsApp Session:     PASS
+2026-02-28 02:12:35,389 - ValidationReport - INFO -   Playwright Install:   PASS
+2026-02-28 02:12:35,389 - ValidationReport - INFO -   Session Persistence:  PASS
+2026-02-28 02:12:35,389 - ValidationReport - INFO -   MCP Connectivity:     PASS
+2026-02-28 02:12:35,389 - ValidationReport - INFO -   Additional Checks:    PASS
+2026-02-28 02:12:35,389 - ValidationReport - INFO - 
+2026-02-28 02:12:35,389 - ValidationReport - INFO - Overall Status:
+2026-02-28 02:12:35,530 - ValidationReport - INFO - 
+2026-02-28 02:12:35,530 - ValidationReport - INFO - JSON Summary:
+2026-02-28 02:12:35,530 - ValidationReport - INFO - {
+  "timestamp": "2026-02-28 02:12:35",
+  "linkedin_auth": "PASS",
+  "whatsapp_session": "PASS",
+  "playwright_install": "PASS",
+  "session_persistence": "PASS",
+  "mcp_connectivity": "PASS",
+  "additional_checks": "PASS",
+  "overall_status": "PASS"
+}
+2026-02-28 02:12:35,530 - ValidationReport - INFO - ================================================================================
+2026-02-28 02:12:35,530 - ValidationReport - INFO - Summary written to: validation_summary.json
+2026-02-28 02:12:35,530 - ValidationReport - INFO - ================================================================================
+2026-02-28 02:12:35,530 - EnhancedTestRunner - INFO - 
+Enhanced Test Runner completed. Overall status: PASS
+2026-02-28 02:13:09,310 - EnhancedTestRunner - INFO - Starting Enhanced AI Employee Watcher Test Runner
+2026-02-28 02:13:09,310 - EnhancedTestRunner - INFO - This test runner evaluates the complete AI Employee Vault system
+2026-02-28 02:13:09,310 - EnhancedTestRunner - INFO - 
+2026-02-28 02:13:09,310 - EnhancedTestRunner - INFO - Running Playwright installation check...
+2026-02-28 02:13:09,310 - PlaywrightCheck - INFO - ============================================================
+2026-02-28 02:13:09,310 - PlaywrightCheck - INFO - CHECKING PLAYWRIGHT INSTALLATION
+2026-02-28 02:13:09,310 - PlaywrightCheck - INFO - ============================================================
+2026-02-28 02:13:09,466 - PlaywrightCheck - INFO - Playwright version: 1.40.0
+2026-02-28 02:13:09,732 - PlaywrightCheck - INFO - Playwright sync API import: PASS
+2026-02-28 02:13:12,847 - PlaywrightCheck - INFO - Chromium browser launch: PASS
+2026-02-28 02:13:12,847 - EnhancedTestRunner - INFO - 
+Running session persistence check...
+2026-02-28 02:13:12,847 - SessionCheck - INFO - ============================================================
+2026-02-28 02:13:12,862 - SessionCheck - INFO - CHECKING SESSION PERSISTENCE
+2026-02-28 02:13:12,862 - SessionCheck - INFO - ============================================================
+2026-02-28 02:13:12,862 - SessionCheck - INFO - LinkedIn session directory exists: linkedin_session
+2026-02-28 02:13:12,909 - SessionCheck - INFO -   Contents: 342 files/directories
+2026-02-28 02:13:12,941 - SessionCheck - INFO -   Data files: 244
+2026-02-28 02:13:12,941 - SessionCheck - INFO - WhatsApp session directory exists: whatsapp_session
+2026-02-28 02:13:13,003 - SessionCheck - INFO -   Contents: 377 files/directories
+2026-02-28 02:13:13,050 - SessionCheck - INFO -   Data files: 266
+2026-02-28 02:13:13,066 - SessionCheck - INFO - Session directory access: PASS
+2026-02-28 02:13:13,066 - EnhancedTestRunner - INFO - 
+Running MCP connectivity check...
+2026-02-28 02:13:13,066 - MCPCheck - INFO - ============================================================
+2026-02-28 02:13:13,066 - MCPCheck - INFO - CHECKING MCP CONNECTIVITY
+2026-02-28 02:13:13,066 - MCPCheck - INFO - ============================================================
+2026-02-28 02:13:13,066 - MCPCheck - INFO - MCP file exists: mcp_browser_server.py
+2026-02-28 02:13:13,066 - MCPCheck - INFO - MCP file exists: mcp_payment_server.py
+2026-02-28 02:13:13,066 - MCPCheck - INFO - MCP file exists: mcp_email_server.py
+2026-02-28 02:13:13,066 - MCPCheck - INFO - MCP file exists: system_watchdog.py
+2026-02-28 02:13:13,066 - MCPCheck - INFO - Skills directory exists: skills
+2026-02-28 02:13:13,066 - MCPCheck - INFO -   Found 1 skill files
+2026-02-28 02:13:13,066 - MCPCheck - INFO - MCP connectivity check: PASS
+2026-02-28 02:13:13,066 - EnhancedTestRunner - INFO - 
+Running additional validations...
+2026-02-28 02:13:13,066 - AdditionalCheck - INFO - ============================================================
+2026-02-28 02:13:13,066 - AdditionalCheck - INFO - RUNNING ADDITIONAL VALIDATIONS
+2026-02-28 02:13:13,066 - AdditionalCheck - INFO - ============================================================
+2026-02-28 02:13:13,066 - AdditionalCheck - INFO - Playwright in requirements.txt: PASS
+2026-02-28 02:13:13,066 - AdditionalCheck - INFO - Base watcher exists: PASS
+2026-02-28 02:13:13,066 - EnhancedTestRunner - INFO - 
+Running LinkedIn watcher test...
+2026-02-28 02:13:13,066 - LinkedInTest - INFO - ============================================================
+2026-02-28 02:13:13,066 - LinkedInTest - INFO - TESTING LINKEDIN WATCHER
+2026-02-28 02:13:13,066 - LinkedInTest - INFO - ============================================================
+2026-02-28 02:13:13,066 - LinkedInTest - INFO - Starting LinkedIn watcher in test mode...
+2026-02-28 02:14:35,465 - LinkedInTest - INFO - LinkedIn watcher exit code: 0
+2026-02-28 02:14:35,465 - LinkedInTest - INFO - LinkedIn test result: PASS
+2026-02-28 02:14:35,465 - EnhancedTestRunner - INFO - 
+Running WhatsApp watcher test...
+2026-02-28 02:14:35,465 - WhatsAppTest - INFO - ============================================================
+2026-02-28 02:14:35,465 - WhatsAppTest - INFO - TESTING WHATSAPP WATCHER
+2026-02-28 02:14:35,465 - WhatsAppTest - INFO - ============================================================
+2026-02-28 02:14:35,465 - WhatsAppTest - INFO - Starting WhatsApp watcher in test mode...
+2026-02-28 02:15:05,027 - WhatsAppTest - INFO - WhatsApp watcher exit code: 0
+2026-02-28 02:15:05,027 - WhatsAppTest - INFO - WhatsApp test result: PASS
+2026-02-28 02:15:05,027 - ValidationReport - INFO - ================================================================================
+2026-02-28 02:15:05,027 - ValidationReport - INFO - COMPREHENSIVE VALIDATION REPORT
+2026-02-28 02:15:05,027 - ValidationReport - INFO - ================================================================================
+2026-02-28 02:15:05,027 - ValidationReport - INFO - Report generated at: 2026-02-28 02:15:05
+2026-02-28 02:15:05,027 - ValidationReport - INFO - 
+2026-02-28 02:15:05,027 - ValidationReport - INFO - Component Status:
+2026-02-28 02:15:05,027 - ValidationReport - INFO -   LinkedIn Auth:        PASS
+2026-02-28 02:15:05,027 - ValidationReport - INFO -   WhatsApp Session:     PASS
+2026-02-28 02:15:05,027 - ValidationReport - INFO -   Playwright Install:   PASS
+2026-02-28 02:15:05,027 - ValidationReport - INFO -   Session Persistence:  PASS
+2026-02-28 02:15:05,027 - ValidationReport - INFO -   MCP Connectivity:     PASS
+2026-02-28 02:15:05,027 - ValidationReport - INFO -   Additional Checks:    PASS
+2026-02-28 02:15:05,027 - ValidationReport - INFO - 
+2026-02-28 02:15:05,027 - ValidationReport - INFO - Overall Status:
+2026-02-28 02:15:05,027 - ValidationReport - INFO -   [SUCCESS] ALL SYSTEMS OPERATIONAL - READY FOR PRODUCTION
+2026-02-28 02:15:05,027 - ValidationReport - INFO -   [PASS] All components passing validation tests
+2026-02-28 02:15:05,027 - ValidationReport - INFO - 
+2026-02-28 02:15:05,027 - ValidationReport - INFO - JSON Summary:
+2026-02-28 02:15:05,027 - ValidationReport - INFO - {
+  "timestamp": "2026-02-28 02:15:05",
+  "linkedin_auth": "PASS",
+  "whatsapp_session": "PASS",
+  "playwright_install": "PASS",
+  "session_persistence": "PASS",
+  "mcp_connectivity": "PASS",
+  "additional_checks": "PASS",
+  "overall_status": "PASS"
+}
+2026-02-28 02:15:05,027 - ValidationReport - INFO - ================================================================================
+2026-02-28 02:15:05,027 - ValidationReport - INFO - Summary written to: validation_summary.json
+2026-02-28 02:15:05,027 - ValidationReport - INFO - ================================================================================
+2026-02-28 02:15:05,027 - EnhancedTestRunner - INFO - 
+Enhanced Test Runner completed. Overall status: PASS

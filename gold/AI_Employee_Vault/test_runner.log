@@ -1,0 +1,183 @@
+2026-02-27 01:04:05,948 - TestRunner - INFO - Starting AI Employee Watcher Test Runner
+2026-02-27 01:04:05,948 - TestRunner - INFO - Running LinkedIn watcher test...
+2026-02-27 01:04:05,948 - LinkedInTest - INFO - ============================================================
+2026-02-27 01:04:05,948 - LinkedInTest - INFO - TESTING LINKEDIN WATCHER
+2026-02-27 01:04:05,948 - LinkedInTest - INFO - ============================================================
+2026-02-27 01:04:05,948 - LinkedInTest - INFO - Starting LinkedIn watcher in test mode...
+2026-02-27 01:05:51,525 - LinkedInTest - INFO - LinkedIn watcher exit code: 0
+2026-02-27 01:05:51,525 - LinkedInTest - ERROR - LinkedIn STDERR:
+2026-02-27 01:05:51,525 - LinkedInTest - ERROR -   Error checking notifications: Timeout 20000ms exceeded.
+2026-02-27 01:05:51,525 - LinkedInTest - ERROR -   Error checking feed: Timeout 20000ms exceeded.
+2026-02-27 01:05:51,525 - LinkedInTest - INFO - LinkedIn test result: PASS
+2026-02-27 01:05:51,525 - TestRunner - INFO - 
+Running WhatsApp watcher test...
+2026-02-27 01:05:51,525 - WhatsAppTest - INFO - ============================================================
+2026-02-27 01:05:51,525 - WhatsAppTest - INFO - TESTING WHATSAPP WATCHER
+2026-02-27 01:05:51,525 - WhatsAppTest - INFO - ============================================================
+2026-02-27 01:05:51,525 - WhatsAppTest - INFO - Starting WhatsApp watcher in test mode...
+2026-02-27 01:07:24,267 - WhatsAppTest - INFO - WhatsApp watcher exit code: 0
+2026-02-27 01:07:24,267 - WhatsAppTest - ERROR - WhatsApp STDERR:
+2026-02-27 01:07:24,267 - WhatsAppTest - ERROR -   Could not detect WhatsApp login. Make sure you're properly logged in.
+2026-02-27 01:07:24,267 - WhatsAppTest - INFO - WhatsApp test result: PASS
+2026-02-27 01:07:24,267 - TestRunner - INFO - 
+Running Playwright installation check...
+2026-02-27 01:07:24,267 - PlaywrightCheck - INFO - ============================================================
+2026-02-27 01:07:24,267 - PlaywrightCheck - INFO - CHECKING PLAYWRIGHT INSTALLATION
+2026-02-27 01:07:24,267 - PlaywrightCheck - INFO - ============================================================
+2026-02-27 01:07:24,283 - PlaywrightCheck - ERROR - Chromium launch error: module 'playwright' has no attribute '__version__'
+2026-02-27 01:07:24,283 - TestRunner - INFO - 
+Running session persistence check...
+2026-02-27 01:07:24,283 - SessionCheck - INFO - ============================================================
+2026-02-27 01:07:24,283 - SessionCheck - INFO - CHECKING SESSION PERSISTENCE
+2026-02-27 01:07:24,283 - SessionCheck - INFO - ============================================================
+2026-02-27 01:07:24,283 - SessionCheck - INFO - LinkedIn session directory exists: linkedin_session
+2026-02-27 01:07:24,283 - SessionCheck - INFO -   Contents: 14 files
+2026-02-27 01:07:24,283 - SessionCheck - INFO - WhatsApp session directory exists: whatsapp_session
+2026-02-27 01:07:24,283 - SessionCheck - INFO -   Contents: 15 files
+2026-02-27 01:07:24,283 - SessionCheck - INFO - Session directory access: PASS
+2026-02-27 01:07:24,283 - TestRunner - INFO - 
+Running MCP connectivity check...
+2026-02-27 01:07:24,283 - MCPCheck - INFO - ============================================================
+2026-02-27 01:07:24,283 - MCPCheck - INFO - CHECKING MCP CONNECTIVITY
+2026-02-27 01:07:24,283 - MCPCheck - INFO - ============================================================
+2026-02-27 01:07:24,283 - MCPCheck - INFO - MCP file exists: mcp_browser_server.py
+2026-02-27 01:07:24,283 - MCPCheck - INFO - MCP file exists: mcp_payment_server.py
+2026-02-27 01:07:24,283 - MCPCheck - INFO - MCP file exists: mcp_email_server.py
+2026-02-27 01:07:24,283 - MCPCheck - INFO - MCP file exists: system_watchdog.py
+2026-02-27 01:07:24,283 - MCPCheck - INFO - MCP connectivity check: PASS
+2026-02-27 01:07:24,283 - ValidationReport - INFO - ================================================================================
+2026-02-27 01:07:24,283 - ValidationReport - INFO - COMPREHENSIVE VALIDATION REPORT
+2026-02-27 01:07:24,283 - ValidationReport - INFO - ================================================================================
+2026-02-27 01:07:24,283 - ValidationReport - INFO - Component Status:
+2026-02-27 01:07:24,283 - ValidationReport - INFO -   LinkedIn Auth:        PASS
+2026-02-27 01:07:24,283 - ValidationReport - INFO -   WhatsApp Session:     PASS
+2026-02-27 01:07:24,283 - ValidationReport - INFO -   Playwright Install:   FAIL
+2026-02-27 01:07:24,283 - ValidationReport - INFO -   Session Persistence:  PASS
+2026-02-27 01:07:24,283 - ValidationReport - INFO -   MCP Connectivity:     PASS
+2026-02-27 01:07:24,283 - ValidationReport - INFO - 
+2026-02-27 01:07:24,283 - ValidationReport - INFO - Overall Status:
+2026-02-27 01:07:24,345 - ValidationReport - INFO -   Some components failed validation tests
+2026-02-27 01:07:24,345 - ValidationReport - INFO -   Failed components: Playwright Install
+2026-02-27 01:07:24,345 - ValidationReport - INFO - ================================================================================
+2026-02-27 01:08:35,675 - TestRunner - INFO - Starting AI Employee Watcher Test Runner
+2026-02-27 01:08:35,675 - TestRunner - INFO - Running LinkedIn watcher test...
+2026-02-27 01:08:35,675 - LinkedInTest - INFO - ============================================================
+2026-02-27 01:08:35,675 - LinkedInTest - INFO - TESTING LINKEDIN WATCHER
+2026-02-27 01:08:35,675 - LinkedInTest - INFO - ============================================================
+2026-02-27 01:08:35,691 - LinkedInTest - INFO - Starting LinkedIn watcher in test mode...
+2026-02-27 01:09:14,657 - LinkedInTest - INFO - LinkedIn watcher exit code: 0
+2026-02-27 01:09:14,657 - LinkedInTest - ERROR - LinkedIn STDERR:
+2026-02-27 01:09:14,657 - LinkedInTest - ERROR -   Error setting up LinkedIn browser: Timeout 30000ms exceeded.
+2026-02-27 01:09:14,657 - LinkedInTest - ERROR -   Critical error in LinkedIn Watcher: Timeout 30000ms exceeded.
+2026-02-27 01:09:14,657 - LinkedInTest - INFO - LinkedIn test result: PASS
+2026-02-27 01:09:14,657 - TestRunner - INFO - 
+Running WhatsApp watcher test...
+2026-02-27 01:09:14,657 - WhatsAppTest - INFO - ============================================================
+2026-02-27 01:09:14,657 - WhatsAppTest - INFO - TESTING WHATSAPP WATCHER
+2026-02-27 01:09:14,657 - WhatsAppTest - INFO - ============================================================
+2026-02-27 01:09:14,657 - WhatsAppTest - INFO - Starting WhatsApp watcher in test mode...
+2026-02-27 01:10:21,071 - WhatsAppTest - INFO - WhatsApp watcher exit code: 0
+2026-02-27 01:10:21,071 - WhatsAppTest - ERROR - WhatsApp STDERR:
+2026-02-27 01:10:21,071 - WhatsAppTest - ERROR -   Could not detect WhatsApp login. Make sure you're properly logged in.
+2026-02-27 01:10:21,071 - WhatsAppTest - INFO - WhatsApp test result: PASS
+2026-02-27 01:10:21,071 - TestRunner - INFO - 
+Running Playwright installation check...
+2026-02-27 01:10:21,071 - PlaywrightCheck - INFO - ============================================================
+2026-02-27 01:10:21,071 - PlaywrightCheck - INFO - CHECKING PLAYWRIGHT INSTALLATION
+2026-02-27 01:10:21,071 - PlaywrightCheck - INFO - ============================================================
+2026-02-27 01:10:22,048 - PlaywrightCheck - INFO - Playwright version: 1.40.0
+2026-02-27 01:10:22,510 - PlaywrightCheck - INFO - Playwright sync API import: PASS
+2026-02-27 01:10:27,999 - PlaywrightCheck - INFO - Chromium browser launch: PASS
+2026-02-27 01:10:27,999 - TestRunner - INFO - 
+Running session persistence check...
+2026-02-27 01:10:27,999 - SessionCheck - INFO - ============================================================
+2026-02-27 01:10:27,999 - SessionCheck - INFO - CHECKING SESSION PERSISTENCE
+2026-02-27 01:10:27,999 - SessionCheck - INFO - ============================================================
+2026-02-27 01:10:27,999 - SessionCheck - INFO - LinkedIn session directory exists: linkedin_session
+2026-02-27 01:10:27,999 - SessionCheck - INFO -   Contents: 14 files
+2026-02-27 01:10:27,999 - SessionCheck - INFO - WhatsApp session directory exists: whatsapp_session
+2026-02-27 01:10:27,999 - SessionCheck - INFO -   Contents: 15 files
+2026-02-27 01:10:27,999 - SessionCheck - INFO - Session directory access: PASS
+2026-02-27 01:10:27,999 - TestRunner - INFO - 
+Running MCP connectivity check...
+2026-02-27 01:10:27,999 - MCPCheck - INFO - ============================================================
+2026-02-27 01:10:27,999 - MCPCheck - INFO - CHECKING MCP CONNECTIVITY
+2026-02-27 01:10:27,999 - MCPCheck - INFO - ============================================================
+2026-02-27 01:10:27,999 - MCPCheck - INFO - MCP file exists: mcp_browser_server.py
+2026-02-27 01:10:27,999 - MCPCheck - INFO - MCP file exists: mcp_payment_server.py
+2026-02-27 01:10:27,999 - MCPCheck - INFO - MCP file exists: mcp_email_server.py
+2026-02-27 01:10:27,999 - MCPCheck - INFO - MCP file exists: system_watchdog.py
+2026-02-27 01:10:27,999 - MCPCheck - INFO - MCP connectivity check: PASS
+2026-02-27 01:10:27,999 - ValidationReport - INFO - ================================================================================
+2026-02-27 01:10:27,999 - ValidationReport - INFO - COMPREHENSIVE VALIDATION REPORT
+2026-02-27 01:10:27,999 - ValidationReport - INFO - ================================================================================
+2026-02-27 01:10:27,999 - ValidationReport - INFO - Component Status:
+2026-02-27 01:10:27,999 - ValidationReport - INFO -   LinkedIn Auth:        PASS
+2026-02-27 01:10:27,999 - ValidationReport - INFO -   WhatsApp Session:     PASS
+2026-02-27 01:10:27,999 - ValidationReport - INFO -   Playwright Install:   PASS
+2026-02-27 01:10:27,999 - ValidationReport - INFO -   Session Persistence:  PASS
+2026-02-27 01:10:27,999 - ValidationReport - INFO -   MCP Connectivity:     PASS
+2026-02-27 01:10:27,999 - ValidationReport - INFO - 
+2026-02-27 01:10:27,999 - ValidationReport - INFO - Overall Status:
+2026-02-27 01:10:28,015 - ValidationReport - INFO - ================================================================================
+2026-02-27 01:20:46,608 - TestRunner - INFO - Starting AI Employee Watcher Test Runner
+2026-02-27 01:20:46,608 - TestRunner - INFO - Running LinkedIn watcher test...
+2026-02-27 01:20:46,608 - LinkedInTest - INFO - ============================================================
+2026-02-27 01:20:46,608 - LinkedInTest - INFO - TESTING LINKEDIN WATCHER
+2026-02-27 01:20:46,608 - LinkedInTest - INFO - ============================================================
+2026-02-27 01:20:46,608 - LinkedInTest - INFO - Starting LinkedIn watcher in test mode...
+2026-02-27 01:21:26,875 - LinkedInTest - INFO - LinkedIn watcher exit code: 0
+2026-02-27 01:21:26,875 - LinkedInTest - ERROR - LinkedIn STDERR:
+2026-02-27 01:21:26,875 - LinkedInTest - ERROR -   Error setting up LinkedIn browser: Timeout 30000ms exceeded.
+2026-02-27 01:21:26,875 - LinkedInTest - ERROR -   Critical error in LinkedIn Watcher: Timeout 30000ms exceeded.
+2026-02-27 01:21:26,875 - LinkedInTest - INFO - LinkedIn test result: PASS
+2026-02-27 01:21:26,875 - TestRunner - INFO - 
+Running WhatsApp watcher test...
+2026-02-27 01:21:26,875 - WhatsAppTest - INFO - ============================================================
+2026-02-27 01:21:26,875 - WhatsAppTest - INFO - TESTING WHATSAPP WATCHER
+2026-02-27 01:21:26,875 - WhatsAppTest - INFO - ============================================================
+2026-02-27 01:21:26,875 - WhatsAppTest - INFO - Starting WhatsApp watcher in test mode...
+2026-02-27 01:22:35,489 - WhatsAppTest - INFO - WhatsApp watcher exit code: 0
+2026-02-27 01:22:35,489 - WhatsAppTest - ERROR - WhatsApp STDERR:
+2026-02-27 01:22:35,489 - WhatsAppTest - ERROR -   Could not detect WhatsApp login. Make sure you're properly logged in.
+2026-02-27 01:22:35,489 - WhatsAppTest - INFO - WhatsApp test result: PASS
+2026-02-27 01:22:35,489 - TestRunner - INFO - 
+Running Playwright installation check...
+2026-02-27 01:22:35,489 - PlaywrightCheck - INFO - ============================================================
+2026-02-27 01:22:35,489 - PlaywrightCheck - INFO - CHECKING PLAYWRIGHT INSTALLATION
+2026-02-27 01:22:35,489 - PlaywrightCheck - INFO - ============================================================
+2026-02-27 01:22:35,630 - PlaywrightCheck - INFO - Playwright version: 1.40.0
+2026-02-27 01:22:35,849 - PlaywrightCheck - INFO - Playwright sync API import: PASS
+2026-02-27 01:22:38,315 - PlaywrightCheck - INFO - Chromium browser launch: PASS
+2026-02-27 01:22:38,315 - TestRunner - INFO - 
+Running session persistence check...
+2026-02-27 01:22:38,315 - SessionCheck - INFO - ============================================================
+2026-02-27 01:22:38,315 - SessionCheck - INFO - CHECKING SESSION PERSISTENCE
+2026-02-27 01:22:38,315 - SessionCheck - INFO - ============================================================
+2026-02-27 01:22:38,315 - SessionCheck - INFO - LinkedIn session directory exists: linkedin_session
+2026-02-27 01:22:38,315 - SessionCheck - INFO -   Contents: 14 files
+2026-02-27 01:22:38,315 - SessionCheck - INFO - WhatsApp session directory exists: whatsapp_session
+2026-02-27 01:22:38,315 - SessionCheck - INFO -   Contents: 15 files
+2026-02-27 01:22:38,315 - SessionCheck - INFO - Session directory access: PASS
+2026-02-27 01:22:38,315 - TestRunner - INFO - 
+Running MCP connectivity check...
+2026-02-27 01:22:38,315 - MCPCheck - INFO - ============================================================
+2026-02-27 01:22:38,315 - MCPCheck - INFO - CHECKING MCP CONNECTIVITY
+2026-02-27 01:22:38,315 - MCPCheck - INFO - ============================================================
+2026-02-27 01:22:38,331 - MCPCheck - INFO - MCP file exists: mcp_browser_server.py
+2026-02-27 01:22:38,331 - MCPCheck - INFO - MCP file exists: mcp_payment_server.py
+2026-02-27 01:22:38,331 - MCPCheck - INFO - MCP file exists: mcp_email_server.py
+2026-02-27 01:22:38,331 - MCPCheck - INFO - MCP file exists: system_watchdog.py
+2026-02-27 01:22:38,331 - MCPCheck - INFO - MCP connectivity check: PASS
+2026-02-27 01:22:38,331 - ValidationReport - INFO - ================================================================================
+2026-02-27 01:22:38,331 - ValidationReport - INFO - COMPREHENSIVE VALIDATION REPORT
+2026-02-27 01:22:38,331 - ValidationReport - INFO - ================================================================================
+2026-02-27 01:22:38,331 - ValidationReport - INFO - Component Status:
+2026-02-27 01:22:38,331 - ValidationReport - INFO -   LinkedIn Auth:        PASS
+2026-02-27 01:22:38,331 - ValidationReport - INFO -   WhatsApp Session:     PASS
+2026-02-27 01:22:38,331 - ValidationReport - INFO -   Playwright Install:   PASS
+2026-02-27 01:22:38,331 - ValidationReport - INFO -   Session Persistence:  PASS
+2026-02-27 01:22:38,331 - ValidationReport - INFO -   MCP Connectivity:     PASS
+2026-02-27 01:22:38,331 - ValidationReport - INFO - 
+2026-02-27 01:22:38,331 - ValidationReport - INFO - Overall Status:
+2026-02-27 01:22:38,360 - ValidationReport - INFO - ================================================================================

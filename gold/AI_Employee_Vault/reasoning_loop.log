@@ -1,0 +1,25 @@
+2026-02-23 05:51:45,529 - __main__ - INFO - Starting Claude Reasoning Loop...
+2026-02-23 05:57:17,361 - __main__ - INFO - Starting Claude Reasoning Loop...
+2026-02-23 05:59:38,973 - __main__ - INFO - Found 1 files to process
+2026-02-23 05:59:39,005 - __main__ - INFO - Processing file: FILE_test_file.md
+2026-02-23 05:59:39,005 - __main__ - INFO - Created plan: PLAN_FILE_test_file_20260223_055939.md
+2026-02-23 05:59:39,023 - __main__ - INFO - Moved FILE_test_file.md to Done folder
+2026-02-23 13:29:30,596 - __main__ - INFO - Found 1 files to process
+2026-02-23 13:29:30,635 - __main__ - INFO - Processing file: social_media_task_20260223_132926.md
+2026-02-23 13:29:30,669 - __main__ - INFO - Created plan: PLAN_social_media_task_20260223_132926_20260223_132930.md
+2026-02-23 13:29:30,617 - __main__ - INFO - Found 1 files to process
+2026-02-23 13:29:30,727 - __main__ - INFO - Processing file: social_media_task_20260223_132926.md
+2026-02-23 13:29:30,893 - __main__ - INFO - Moved social_media_task_20260223_132926.md to Done folder
+2026-02-23 13:29:30,893 - __main__ - INFO - Created plan: PLAN_social_media_task_20260223_132926_20260223_132930.md
+2026-02-23 13:29:31,570 - __main__ - ERROR - Error in reasoning loop: [WinError 2] The system cannot find the file specified: 'C:\\Users\\HC\\Desktop\\Hackathon0_silver\\AI_Employee_Vault\\Needs_Action\\social_media_task_20260223_132926.md' -> 'C:\\Users\\HC\\Desktop\\Hackathon0_silver\\AI_Employee_Vault\\Done\\social_media_task_20260223_132926.md'
+2026-02-23 13:30:00,976 - __main__ - INFO - Found 2 files to process
+2026-02-23 13:30:00,976 - __main__ - INFO - Processing file: social_media_task_20260223_132955.md
+2026-02-23 13:30:01,010 - __main__ - INFO - Created plan: PLAN_social_media_task_20260223_132955_20260223_133001.md
+2026-02-23 13:30:01,050 - __main__ - INFO - Moved social_media_task_20260223_132955.md to Done folder
+2026-02-23 13:30:01,050 - __main__ - INFO - Processing file: social_media_task_20260223_133000.md
+2026-02-23 13:30:01,077 - __main__ - INFO - Created plan: PLAN_social_media_task_20260223_133000_20260223_133001.md
+2026-02-23 13:30:01,117 - __main__ - INFO - Moved social_media_task_20260223_133000.md to Done folder
+2026-03-01 21:38:30,033 - __main__ - INFO - Starting Claude Reasoning Loop...
+2026-03-01 21:38:30,955 - __main__ - INFO - Starting Claude Reasoning Loop...
+2026-03-01 21:41:37,460 - __main__ - INFO - Starting Claude Reasoning Loop...
+2026-03-01 21:41:37,694 - __main__ - INFO - Starting Claude Reasoning Loop...

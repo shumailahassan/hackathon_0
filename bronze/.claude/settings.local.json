@@ -1,0 +1,9 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(.specify/scripts/powershell/check-prerequisites.ps1:*)",
+      "Bash(python:*)",
+      "Bash(ls:*)"
+    ]
+  }
+}

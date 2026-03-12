@@ -1,0 +1,12 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(.specify/scripts/powershell/check-prerequisites.ps1:*)",
+      "Bash(pip install:*)",
+      "Bash(cd AI_Employee_Vault:*)",
+      "Bash(python:*)",
+      "Bash(ls:*)",
+      "Bash(playwright install:*)"
+    ]
+  }
+}

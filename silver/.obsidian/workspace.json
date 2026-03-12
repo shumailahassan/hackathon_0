@@ -1,0 +1,208 @@
+{
+  "main": {
+    "id": "f6b7a23ba231fac1",
+    "type": "split",
+    "children": [
+      {
+        "id": "39b206b6920b57bc",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "665e97574bcbe51a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "history/adr/001-modular-skill-architecture.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "001-modular-skill-architecture"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "dacfef6a98c7f36a",
+    "type": "split",
+    "children": [
+      {
+        "id": "ba7cbde5e643dd8d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f4d15d64d395ba99",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "97a210d5c71b75a5",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "f0c7eb2be1543dd5",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "555a1edc714f39b9",
+    "type": "split",
+    "children": [
+      {
+        "id": "1ccb57c7fbd5069f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "dae29e74693e7429",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "history/adr/001-modular-skill-architecture.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for 001-modular-skill-architecture"
+            }
+          },
+          {
+            "id": "ae9c11f6ef61fb9e",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "history/adr/001-modular-skill-architecture.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from 001-modular-skill-architecture"
+            }
+          },
+          {
+            "id": "6d1f00c849b6992c",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "60a275de7d4a6d1f",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "619bd8c0111ad43f",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "history/adr/001-modular-skill-architecture.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of 001-modular-skill-architecture"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "665e97574bcbe51a",
+  "lastOpenFiles": [
+    "AI_Employee_Vault/README.md",
+    "AI_Employee_Vault/skills/README.md",
+    "history/prompts/general/004-bronze-tier-testing.general.prompt.md",
+    "AI_Employee_Vault/final_verification.py",
+    "AI_Employee_Vault/Done/clean_test_file.txt",
+    "AI_Employee_Vault/Inbox/clean_test_file.txt",
+    "AI_Employee_Vault/Needs_Action/clean_test_file.txt",
+    "AI_Employee_Vault/simple_workflow_test.py",
+    "AI_Employee_Vault/Inbox/test_file.txt",
+    "AI_Employee_Vault/Needs_Action/test_file.txt",
+    "AI_Employee_Vault/Drop_Folder/watcher_test.txt",
+    "AI_Employee_Vault/Done/test_file.txt",
+    "AI_Employee_Vault/ai_employee.log",
+    "history/prompts/general/003-create-bronze-tier-skills.general.prompt.md",
+    "history/prompts/general/002-create-adr-modular-architecture.general.prompt.md",
+    "history/adr/001-modular-skill-architecture.md",
+    "history/prompts/general/001-create-bronze-tier-skills.general.prompt.md",
+    "AI_Employee_Vault/Dashboard.md",
+    "AI_Employee_Vault/Company_Handbook.md"
+  ]
+}

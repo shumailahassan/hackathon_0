@@ -1,0 +1,93 @@
+2026-02-23 05:51:45,529 - __main__ - INFO - Starting Claude Reasoning Loop...
+2026-02-23 05:57:17,361 - __main__ - INFO - Starting Claude Reasoning Loop...
+2026-02-23 05:59:38,973 - __main__ - INFO - Found 1 files to process
+2026-02-23 05:59:39,005 - __main__ - INFO - Processing file: FILE_test_file.md
+2026-02-23 05:59:39,005 - __main__ - INFO - Created plan: PLAN_FILE_test_file_20260223_055939.md
+2026-02-23 05:59:39,023 - __main__ - INFO - Moved FILE_test_file.md to Done folder
+2026-02-23 13:29:30,596 - __main__ - INFO - Found 1 files to process
+2026-02-23 13:29:30,635 - __main__ - INFO - Processing file: social_media_task_20260223_132926.md
+2026-02-23 13:29:30,669 - __main__ - INFO - Created plan: PLAN_social_media_task_20260223_132926_20260223_132930.md
+2026-02-23 13:29:30,617 - __main__ - INFO - Found 1 files to process
+2026-02-23 13:29:30,727 - __main__ - INFO - Processing file: social_media_task_20260223_132926.md
+2026-02-23 13:29:30,893 - __main__ - INFO - Moved social_media_task_20260223_132926.md to Done folder
+2026-02-23 13:29:30,893 - __main__ - INFO - Created plan: PLAN_social_media_task_20260223_132926_20260223_132930.md
+2026-02-23 13:29:31,570 - __main__ - ERROR - Error in reasoning loop: [WinError 2] The system cannot find the file specified: 'C:\\Users\\HC\\Desktop\\Hackathon0_silver\\AI_Employee_Vault\\Needs_Action\\social_media_task_20260223_132926.md' -> 'C:\\Users\\HC\\Desktop\\Hackathon0_silver\\AI_Employee_Vault\\Done\\social_media_task_20260223_132926.md'
+2026-02-23 13:30:00,976 - __main__ - INFO - Found 2 files to process
+2026-02-23 13:30:00,976 - __main__ - INFO - Processing file: social_media_task_20260223_132955.md
+2026-02-23 13:30:01,010 - __main__ - INFO - Created plan: PLAN_social_media_task_20260223_132955_20260223_133001.md
+2026-02-23 13:30:01,050 - __main__ - INFO - Moved social_media_task_20260223_132955.md to Done folder
+2026-02-23 13:30:01,050 - __main__ - INFO - Processing file: social_media_task_20260223_133000.md
+2026-02-23 13:30:01,077 - __main__ - INFO - Created plan: PLAN_social_media_task_20260223_133000_20260223_133001.md
+2026-02-23 13:30:01,117 - __main__ - INFO - Moved social_media_task_20260223_133000.md to Done folder
+2026-02-25 23:57:20,405 - __main__ - INFO - Found 2 files to process
+2026-02-25 23:57:20,446 - __main__ - INFO - Processing file: social_media_task_20260225_235711.md
+2026-02-25 23:57:20,426 - __main__ - INFO - Found 2 files to process
+2026-02-25 23:57:20,527 - __main__ - INFO - Processing file: social_media_task_20260225_235711.md
+2026-02-25 23:57:20,549 - __main__ - INFO - Created plan: PLAN_social_media_task_20260225_235711_20260225_235720.md
+2026-02-25 23:57:20,567 - __main__ - INFO - Created plan: PLAN_social_media_task_20260225_235711_20260225_235720.md
+2026-02-25 23:57:20,578 - __main__ - ERROR - Error in reasoning loop: [WinError 32] The process cannot access the file because it is being used by another process: 'C:\\Users\\HC\\Desktop\\Hackathon0_silver\\AI_Employee_Vault\\Needs_Action\\social_media_task_20260225_235711.md' -> 'C:\\Users\\HC\\Desktop\\Hackathon0_silver\\AI_Employee_Vault\\Done\\social_media_task_20260225_235711.md'
+2026-02-25 23:57:20,663 - __main__ - INFO - Moved social_media_task_20260225_235711.md to Done folder
+2026-02-25 23:57:20,665 - __main__ - INFO - Processing file: social_media_task_20260225_235714.md
+2026-02-25 23:57:20,736 - __main__ - INFO - Created plan: PLAN_social_media_task_20260225_235714_20260225_235720.md
+2026-02-25 23:57:20,808 - __main__ - INFO - Moved social_media_task_20260225_235714.md to Done folder
+2026-02-25 23:57:40,811 - __main__ - INFO - Found 1 files to process
+2026-02-25 23:57:40,811 - __main__ - INFO - Processing file: social_media_task_20260225_235740.md
+2026-02-25 23:57:40,826 - __main__ - INFO - Created plan: PLAN_social_media_task_20260225_235740_20260225_235740.md
+2026-02-25 23:57:40,858 - __main__ - INFO - Moved social_media_task_20260225_235740.md to Done folder
+2026-02-28 01:05:11,012 - __main__ - INFO - Found 2 files to process
+2026-02-28 01:05:11,028 - __main__ - INFO - Processing file: social_media_task_20260228_010507.md
+2026-02-28 01:05:11,012 - __main__ - INFO - Found 2 files to process
+2026-02-28 01:05:11,043 - __main__ - INFO - Processing file: social_media_task_20260228_010507.md
+2026-02-28 01:05:11,059 - __main__ - INFO - Created plan: PLAN_social_media_task_20260228_010507_20260228_010511.md
+2026-02-28 01:05:11,059 - __main__ - INFO - Created plan: PLAN_social_media_task_20260228_010507_20260228_010511.md
+2026-02-28 01:05:11,075 - __main__ - INFO - Moved social_media_task_20260228_010507.md to Done folder
+2026-02-28 01:05:11,075 - __main__ - INFO - Processing file: social_media_task_20260228_010510.md
+2026-02-28 01:05:11,075 - __main__ - INFO - Moved social_media_task_20260228_010507.md to Done folder
+2026-02-28 01:05:11,075 - __main__ - INFO - Processing file: social_media_task_20260228_010510.md
+2026-02-28 01:05:11,090 - __main__ - INFO - Created plan: PLAN_social_media_task_20260228_010510_20260228_010511.md
+2026-02-28 01:05:11,090 - __main__ - INFO - Created plan: PLAN_social_media_task_20260228_010510_20260228_010511.md
+2026-02-28 01:05:11,106 - __main__ - INFO - Moved social_media_task_20260228_010510.md to Done folder
+2026-02-28 01:05:11,106 - __main__ - ERROR - Error in reasoning loop: [WinError 2] The system cannot find the file specified: 'C:\\Users\\HC\\Desktop\\Hackathon0_silver\\AI_Employee_Vault\\Needs_Action\\social_media_task_20260228_010510.md' -> 'C:\\Users\\HC\\Desktop\\Hackathon0_silver\\AI_Employee_Vault\\Done\\social_media_task_20260228_010510.md'
+2026-02-28 01:05:41,117 - __main__ - INFO - Found 1 files to process
+2026-02-28 01:05:41,117 - __main__ - INFO - Processing file: social_media_task_20260228_010536.md
+2026-02-28 01:05:41,120 - __main__ - INFO - Found 1 files to process
+2026-02-28 01:05:41,120 - __main__ - INFO - Processing file: social_media_task_20260228_010536.md
+2026-02-28 01:05:41,120 - __main__ - INFO - Created plan: PLAN_social_media_task_20260228_010536_20260228_010541.md
+2026-02-28 01:05:41,120 - __main__ - INFO - Created plan: PLAN_social_media_task_20260228_010536_20260228_010541.md
+2026-02-28 01:05:41,152 - __main__ - INFO - Moved social_media_task_20260228_010536.md to Done folder
+2026-02-28 01:05:41,152 - __main__ - INFO - Moved social_media_task_20260228_010536.md to Done folder
+2026-02-28 08:12:21,878 - reasoning_loop - INFO - Company rules loaded successfully
+2026-02-28 08:12:21,878 - reasoning_loop - INFO - Starting Claude Reasoning Loop...
+2026-02-28 08:12:21,878 - reasoning_loop - INFO - Monitoring: C:\Users\HC\Desktop\Hackathon0_silver\AI_Employee_Vault\Needs_Action
+2026-02-28 08:12:33,217 - reasoning_loop - INFO - Company rules loaded successfully
+2026-02-28 08:12:33,217 - reasoning_loop - INFO - Starting Claude Reasoning Loop...
+2026-02-28 08:12:33,217 - reasoning_loop - INFO - Monitoring: C:\Users\HC\Desktop\Hackathon0_silver\AI_Employee_Vault\Needs_Action
+2026-02-28 08:17:07,073 - reasoning_loop - INFO - Found 2 files to process
+2026-02-28 08:17:08,400 - reasoning_loop - INFO - Processing file: FILE_test_file_1772248619.md
+2026-02-28 08:17:08,667 - reasoning_loop - INFO - Created plan: PLAN_FILE_test_file_1772248619_20260228_081708.md
+2026-02-28 08:17:08,755 - reasoning_loop - ERROR - Error creating approval request: day is out of range for month
+Traceback (most recent call last):
+  File "C:\Users\HC\Desktop\Hackathon0_silver\AI_Employee_Vault\reasoning_loop.py", line 484, in create_approval_request
+    expires: {datetime.now().replace(day=datetime.now().day+1).isoformat()}  # Expires in 1 day
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+ValueError: day is out of range for month
+2026-02-28 08:17:08,987 - reasoning_loop - INFO - Moved FILE_test_file_1772248619.md to Done folder
+2026-02-28 08:17:08,995 - reasoning_loop - INFO - Processing file: test_reasoning_1772248619.md
+2026-02-28 08:17:09,737 - reasoning_loop - INFO - Found 1 files to process
+2026-02-28 08:17:09,809 - reasoning_loop - INFO - Created plan: PLAN_test_reasoning_1772248619_20260228_081709.md
+2026-02-28 08:17:11,530 - reasoning_loop - INFO - Moved test_reasoning_1772248619.md to Done folder
+2026-02-28 08:19:01,816 - reasoning_loop - INFO - Found 1 files to process
+2026-02-28 08:19:01,822 - reasoning_loop - INFO - Processing file: test_reasoning_1772248737.md
+2026-02-28 08:19:01,833 - reasoning_loop - INFO - Created plan: PLAN_test_reasoning_1772248737_20260228_081901.md
+2026-02-28 08:19:02,169 - reasoning_loop - INFO - Moved test_reasoning_1772248737.md to Done folder
+2026-02-28 08:21:12,720 - reasoning_loop - INFO - Found 1 files to process
+2026-02-28 08:21:12,728 - reasoning_loop - INFO - Processing file: test_reasoning_1772248867.md
+2026-02-28 08:21:12,736 - reasoning_loop - INFO - Created plan: PLAN_test_reasoning_1772248867_20260228_082112.md
+2026-02-28 08:21:12,769 - reasoning_loop - INFO - Moved test_reasoning_1772248867.md to Done folder
+2026-02-28 08:23:52,561 - reasoning_loop - INFO - Company rules loaded successfully
+2026-02-28 08:23:52,561 - reasoning_loop - INFO - Starting Claude Reasoning Loop...
+2026-02-28 08:23:52,561 - reasoning_loop - INFO - Monitoring: Needs_Action
+2026-02-28 08:30:43,942 - reasoning_loop - INFO - Found 1 files to process
+2026-02-28 08:30:43,942 - reasoning_loop - INFO - Processing file: quick_test.md
+2026-02-28 08:30:43,973 - reasoning_loop - INFO - Created plan: PLAN_quick_test_20260228_083043.md
+2026-02-28 08:30:44,020 - reasoning_loop - INFO - Moved quick_test.md to Done folder

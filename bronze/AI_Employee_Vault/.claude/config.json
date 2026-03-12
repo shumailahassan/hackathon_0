@@ -1,0 +1,11 @@
+{
+  "version": "1.0",
+  "name": "AI Employee Vault",
+  "description": "Personal AI Employee Hackathon Bronze Tier",
+  "workingDirectory": "C:\\Users\\HC\\Desktop\\Hackathon0\\AI_Employee_Vault",
+  "filePatterns": [
+    "**/*.md",
+    "**/*.txt",
+    "**/*.py"
+  ]
+}

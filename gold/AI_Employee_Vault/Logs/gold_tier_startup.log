@@ -1,0 +1,64 @@
+2026-02-26 00:11:46,546 - PaymentMCP - INFO - Payee verification: Test Client is new
+2026-02-26 00:11:46,546 - PaymentMCP - INFO - Payee verification: Test Client is new
+2026-02-26 00:11:46,546 - PaymentMCP - INFO - Created payment approval request PAYMENT_989E9E67_1772046706
+2026-03-01 21:38:29,018 - GoldTierStartup - INFO - Gold Tier AI Employee System starting up...
+2026-03-01 21:38:29,033 - GoldTierStartup - INFO - Starting Gold Tier AI Employee System...
+2026-03-01 21:38:29,033 - GoldTierStartup - INFO - Vault structure initialized
+2026-03-01 21:38:29,033 - GoldTierStartup - INFO - Starting Watchdog...
+2026-03-01 21:38:29,033 - GoldTierStartup - INFO - Watchdog started with PID 13856
+2026-03-01 21:38:29,033 - GoldTierStartup - INFO - Watchdog: SUCCESS
+2026-03-01 21:38:29,033 - GoldTierStartup - INFO - Starting Browser MCP...
+2026-03-01 21:38:29,893 - GoldTierStartup - INFO - Browser MCP server started in thread
+2026-03-01 21:38:29,893 - GoldTierStartup - INFO - Browser MCP: SUCCESS
+2026-03-01 21:38:29,893 - GoldTierStartup - INFO - Starting Payment MCP...
+2026-03-01 21:38:30,111 - GoldTierStartup - INFO - Payment MCP server initialized
+2026-03-01 21:38:30,111 - GoldTierStartup - INFO - Payment MCP: SUCCESS
+2026-03-01 21:38:30,111 - GoldTierStartup - INFO - Starting Scheduler...
+2026-03-01 21:38:30,127 - GoldTierStartup - INFO - Scheduler started with PID 2084
+2026-03-01 21:38:30,127 - GoldTierStartup - INFO - Scheduler: SUCCESS
+2026-03-01 21:38:30,127 - GoldTierStartup - INFO - Starting Reasoning Loop...
+2026-03-01 21:38:30,127 - GoldTierStartup - INFO - Reasoning loop started with PID 17480
+2026-03-01 21:38:30,127 - GoldTierStartup - INFO - Reasoning Loop: SUCCESS
+2026-03-01 21:38:30,127 - GoldTierStartup - INFO - Starting Watchers...
+2026-03-01 21:38:30,143 - GoldTierStartup - INFO - gmail_watcher started with PID 7436
+2026-03-01 21:38:30,158 - GoldTierStartup - INFO - whatsapp_watcher started with PID 10712
+2026-03-01 21:38:30,174 - GoldTierStartup - INFO - linkedin_watcher started with PID 20612
+2026-03-01 21:38:30,174 - GoldTierStartup - INFO - filesystem_watcher started with PID 8264
+2026-03-01 21:38:30,174 - GoldTierStartup - INFO - Watchers: SUCCESS
+2026-03-01 21:38:30,174 - GoldTierStartup - INFO - Starting CEO Briefing Generator...
+2026-03-01 21:38:30,174 - GoldTierStartup - INFO - CEO Briefing generator ready (integrated with scheduler)
+2026-03-01 21:38:30,190 - GoldTierStartup - INFO - CEO Briefing Generator: SUCCESS
+2026-03-01 21:38:30,205 - GoldTierStartup - INFO - Gold Tier startup complete. 7/7 services started successfully.
+2026-03-01 21:38:59,118 - BrowserMCP - INFO - Browser MCP server initialized successfully
+2026-03-01 21:38:59,119 - BrowserMCP - INFO - Browser MCP server started and ready to handle requests
+2026-03-01 21:41:36,266 - GoldTierStartup - INFO - Gold Tier AI Employee System starting up...
+2026-03-01 21:41:36,266 - GoldTierStartup - INFO - Starting Gold Tier AI Employee System...
+2026-03-01 21:41:36,266 - GoldTierStartup - INFO - Vault structure initialized
+2026-03-01 21:41:36,266 - GoldTierStartup - INFO - Starting Watchdog...
+2026-03-01 21:41:36,282 - GoldTierStartup - INFO - Watchdog started with PID 15616
+2026-03-01 21:41:36,282 - GoldTierStartup - INFO - Watchdog: SUCCESS
+2026-03-01 21:41:36,282 - GoldTierStartup - INFO - Starting Browser MCP...
+2026-03-01 21:41:36,850 - GoldTierStartup - INFO - Browser MCP server started in thread
+2026-03-01 21:41:36,850 - GoldTierStartup - INFO - Browser MCP: SUCCESS
+2026-03-01 21:41:36,850 - GoldTierStartup - INFO - Starting Payment MCP...
+2026-03-01 21:41:36,975 - GoldTierStartup - INFO - Payment MCP server initialized
+2026-03-01 21:41:36,975 - GoldTierStartup - INFO - Payment MCP: SUCCESS
+2026-03-01 21:41:36,975 - GoldTierStartup - INFO - Starting Scheduler...
+2026-03-01 21:41:36,975 - GoldTierStartup - INFO - Scheduler started with PID 16308
+2026-03-01 21:41:36,975 - GoldTierStartup - INFO - Scheduler: SUCCESS
+2026-03-01 21:41:36,975 - GoldTierStartup - INFO - Starting Reasoning Loop...
+2026-03-01 21:41:36,991 - GoldTierStartup - INFO - Reasoning loop started with PID 19912
+2026-03-01 21:41:36,991 - GoldTierStartup - INFO - Reasoning Loop: SUCCESS
+2026-03-01 21:41:36,991 - GoldTierStartup - INFO - Starting Watchers...
+2026-03-01 21:41:37,007 - GoldTierStartup - INFO - gmail_watcher started with PID 10656
+2026-03-01 21:41:37,007 - GoldTierStartup - INFO - whatsapp_watcher started with PID 10148
+2026-03-01 21:41:37,022 - GoldTierStartup - INFO - linkedin_watcher started with PID 13904
+2026-03-01 21:41:37,038 - GoldTierStartup - INFO - filesystem_watcher started with PID 6420
+2026-03-01 21:41:37,038 - GoldTierStartup - INFO - Watchers: SUCCESS
+2026-03-01 21:41:37,038 - GoldTierStartup - INFO - Starting CEO Briefing Generator...
+2026-03-01 21:41:37,038 - GoldTierStartup - INFO - CEO Briefing generator ready (integrated with scheduler)
+2026-03-01 21:41:37,038 - GoldTierStartup - INFO - CEO Briefing Generator: SUCCESS
+2026-03-01 21:41:37,100 - GoldTierStartup - INFO - Gold Tier startup complete. 7/7 services started successfully.
+2026-03-01 21:41:50,653 - BrowserMCP - INFO - Browser MCP server initialized successfully
+2026-03-01 21:41:50,653 - BrowserMCP - INFO - Browser MCP server started and ready to handle requests
+2026-03-01 21:43:17,927 - GoldTierStartup - WARNING - Critical process reasoning_loop (PID 19912) exited with code 143
